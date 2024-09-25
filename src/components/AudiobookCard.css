@@ -1,0 +1,26 @@
+/* AudiobookCard.css */
+.audiobook-card {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  margin-top: 40px;
+  grid-gap: 30px;
+}
+
+.audiobook-card:hover {
+  transform: scale(1.05);
+}
+
+.audiobook-card-image {
+  height: 100%;
+  width: 100%;
+}
+
+.audiobook-card-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.audiobook-card-author {
+  color: #666;
+  font-size: 0.9rem;
+}

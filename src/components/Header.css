@@ -1,0 +1,13 @@
+/* Header.css */
+.header-appbar {
+  background-color: #282c34;
+  margin-bottom: 40px;
+}
+
+.header-typography {
+  flex-grow: 1;
+}
+
+.header-button {
+  color: white;
+}
